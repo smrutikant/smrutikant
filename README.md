@@ -5,7 +5,6 @@
 Passionate about building scalable cloud platforms, storage systems, and internal tools. Over 12 years of experience in software development and architecture.
 
 📧 **Email:** smrutigml@gmail.com  
-💼 **Looking for:** Full-time, On-site Roles
 
 ---
 
